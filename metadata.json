@@ -1,0 +1,6 @@
+{
+  "name": "LaunchForge AI",
+  "description": "An autonomous AI-led product launch package constructor and directory submitter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
